@@ -4,7 +4,7 @@ import { TrendingUp, Shield, Smartphone, PiggyBank, Mail, Phone } from "lucide-r
 
 // Für Vercel Deployment: Ersetzen Sie diesen Pfad mit Ihrem eigenen Bild
 // Legen Sie das Bild in public/images/project.jpg ab
-const projectImage = "/images/project.jpg";
+const projectImage = "/public/images/project.jpg";
 
 export default function App() {
   return (
